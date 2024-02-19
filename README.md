@@ -12,3 +12,5 @@ This repository contains the source code for a simple Drum Kit web application. 
 -HTML
 -CSS
 -JavaScript
+
+![Drum-Kit-JS](images/drumKit.png)
